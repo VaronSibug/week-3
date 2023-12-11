@@ -1,1 +1,3 @@
-# week-3
+NAME: Varon Nycholas D. Sibug
+USN: 21008123310
+PROGRAM: BSIT
